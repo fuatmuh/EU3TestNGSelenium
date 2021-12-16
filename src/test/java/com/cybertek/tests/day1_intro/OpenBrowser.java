@@ -20,6 +20,7 @@ public class OpenBrowser {
 
         System.out.println("hello");
         System.out.println("hello 2 deneme");
+        System.out.println("hello 2 ci gonderim");
 
 
 
