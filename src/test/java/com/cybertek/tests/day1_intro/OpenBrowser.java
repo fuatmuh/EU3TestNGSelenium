@@ -19,6 +19,7 @@ public class OpenBrowser {
         driver.get("https:/wwwgoogle.com");
 
         System.out.println("hello");
+        System.out.println("hello 2 deneme");
 
 
 
