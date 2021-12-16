@@ -18,6 +18,8 @@ public class OpenBrowser {
         WebDriver driver=new FirefoxDriver();
         driver.get("https:/wwwgoogle.com");
 
+        System.out.println("hello");
+
 
 
 
